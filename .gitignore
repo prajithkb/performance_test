@@ -1,0 +1,6 @@
+/target
+.delete
+*.txt
+*.svg
+*.data*
+out*
